@@ -25,12 +25,25 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+[contributors-shield]: https://img.shields.io/github/contributors/vemacademics/AI-Workshop-2024/README.svg?style=for-the-badge
+[contributors-url]: https://github.com/vemacademics/AI-Workshop-2024/README/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vemacademics/AI-Workshop-2024/README.svg?style=for-the-badge
+[forks-url]: https://github.com/vemacademics/AI-Workshop-2024/README/network/members
+[stars-shield]: https://img.shields.io/github/stars/vemacademics/AI-Workshop-2024/README.svg?style=for-the-badge
+[stars-url]: https://github.com/vemacademics/AI-Workshop-2024/README/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vemacademics/AI-Workshop-2024/README.svg?style=for-the-badge
+[issues-url]: https://github.com/vemacademics/AI-Workshop-2024/README/issues
+[license-shield]: https://img.shields.io/github/license/vemacademics/AI-Workshop-2024/README.svg?style=for-the-badge
+[license-url]: https://github.com/vemacademics/AI-Workshop-2024/README/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/
+[product-screenshot]: images/screenshot.png
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vemacademics/README.md">
+  <a href="https://github.com/vemacademics/AI-Workshop-2024/README.md">
     <img src="images/logo.png" alt="Vema Academy Logo" width="80" height="80">
   </a>
 
@@ -39,10 +52,10 @@
   <p align="center">
     Exploring Open - Source Tools for building your awesome AI projects !
     <br />
-    <a href="https://github.com/vemacademics/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vemacademics/AI-Workshop-2024/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/vemacademics/README.md">View Demo</a>
+    <a href="https://github.com/vemacademics/AI-Workshop-2024/README.md">View Demo</a>
     &middot; 
     <a href="https://github.com/vemacademics/AI-Workshop-2024/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
@@ -164,15 +177,17 @@ _For more examples, please refer to the [Documentation](https://www.together.ai)
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Python
-- [x] Postgresql Database
-- [ ] NodeJs
-- [ ] TogetherAI
-- [ ] FastAPI
-    - [ ] BackEnd
-- [ ] NextJs 
-    - [ ] Front-End
-- [ ] AfricasTalking
+- [x] Back-End
+  - [x] Python - FastAPI
+  - [x] PostgreSQL
+  - [x] Storage : Supabase
+  - [x] TogetherAI
+  - [x] AfricasTalking
+- [x] Front-End
+  - [x] NodeJs - Js Runtime
+  - [x] NextJS - FullStack JS/TS Framework
+  - [x] PNPM
+  - [x] Boiler Plate : ShardCn 
 
 See the [open issues](https://github.com/vemacademics/AI-Workshop-2024/issues) for a full list of proposed features (and known issues).
 
@@ -183,16 +198,7 @@ See the [open issues](https://github.com/vemacademics/AI-Workshop-2024/issues) f
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Milango iko wazi ukitaka kushirikiana na Vema Acadmey katika namna yoyte. ** KARIBU , HAKUNA MATATA **.
 
 ### Top contributors:
 
@@ -202,8 +208,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
@@ -211,32 +215,26 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Vema Academy - [@VemaAcademy](https://twitter.com/VemaAcademy) - vema.academiy@gmail.com
-
-Project Link: [https://github.com/vemacademics/AI-Workshop-2024](https://github.com/vemacademics/AI-Workshop-2024)
+***Vema Academy*** - [@VemaAcademy](https://twitter.com/VemaAcademy) - vema.academiy@gmail.com
+***Project Link***: [https://github.com/vemacademics/AI-Workshop-2024](https://github.com/vemacademics/AI-Workshop-2024)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Tunawashukuru washiri na wakufunzi wote:
+[Abubakar Omar](https://github.com/abuu94)
+[Ahmad Sadri](https://github.com/ahmad1284)
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Tunawashukuru  wakufunzi wote:
+[Mohammed Singano](https://github.com/abuu94)
+[Fredy German](https://github.com/fredygerman)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -258,6 +256,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
