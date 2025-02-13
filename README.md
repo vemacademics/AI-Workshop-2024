@@ -266,11 +266,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [TailwindCSS-url]:https://tailwindcss.com/
 [TailwindCSS.com]:https://img.shields.io/badge/tailwindcss.js-000000?style=for-the-badge&logo=tailwindcss&logoColor=blue
 
-[TogetherAI]: https://togetherai.com/logo.png](https://img.shields.io/badge/togetherai.js-000000?style=for-the-badge&logo=togetherai&logoColor=blue
+[TogetherAI]:https://img.shields.io/badge/togetherai.js-000000?style=for-the-badge&logo=togetherai&logoColor=blue
 [TogetherAI-url]: https://togetherai.com
 
 
-[AfricasTalking]: https://africastalking.com/logo.png](https://img.shields.io/badge/africastalking.js-000000?style=for-the-badge&logo=africastalking&logoColor=blue
+[AfricasTalking]:https://img.shields.io/badge/africastalking.js-000000?style=for-the-badge&logo=africastalking&logoColor=blue
 [AfricasTalking-url]: https://africastalking.com
 
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
