@@ -266,7 +266,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [TailwindCSS-url]:https://tailwindcss.com/
 [TailwindCSS.com]:https://img.shields.io/badge/tailwindcss.js-000000?style=for-the-badge&logo=tailwindcss&logoColor=blue
 
-[TogetherAI]: https://togetherai.com/logo.png
+[TogetherAI]: [https://togetherai.com/logo.png](https://img.shields.io/badge/togetherai.js-000000?style=for-the-badge&logo=togetherai&logoColor=blue)](https://togetherai.com)
 [TogetherAI-url]: https://togetherai.com
 
 
