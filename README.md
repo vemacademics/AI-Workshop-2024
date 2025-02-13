@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -108,16 +91,12 @@ Frameworks/libraries zifuatazo ndio zilizotumika katika workshop hio so as to bo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-These are the links to have on hand. 
-
 ### Prerequisites
 
 These are the softwares you need and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-https://www.together.ai/
+
+*  Learn , Code , Grow
+  
 ### Installation
 
 _Below are link to browse website where you can download and install packages and services._
@@ -148,9 +127,9 @@ _Below are link to browse website where you can download and install packages an
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Browse for more detail. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Kupata taarifa zaidi kuhusu resources na waandaaji wa workshop hii, tembelea kusasa za Vema Academy.
 
-_For more examples, please refer to the [Documentation](https://www.together.ai)_
+_For more examples, please refer to the [Documentation](https://github.com/abuu94)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +180,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 ## Contact
 
 ***Vema Academy*** - [@VemaAcademy](https://twitter.com/VemaAcademy) - vema.academiy@gmail.com
+
 ***Project Link***: [https://github.com/vemacademics/AI-Workshop-2024](https://github.com/vemacademics/AI-Workshop-2024)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -209,11 +189,15 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 Tunawashukuru washiri na wakufunzi wote:
+
 [Abubakar Omar](https://github.com/abuu94)
+
 [Ahmad Sadri](https://github.com/ahmad1284)
 
 Tunawashukuru  wakufunzi wote:
+
 [Mohammed Singano](https://github.com/abuu94)
+
 [Fredy German](https://github.com/fredygerman)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
